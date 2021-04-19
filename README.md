@@ -1,1 +1,2 @@
-# python
+## Python
+Some python notes
